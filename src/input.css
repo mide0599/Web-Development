@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+
+body{
+    font-family: "Inter", sans-serif;
+}
+
+@font-face {
+    font-family: Instrumental-sans;
+    src: url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
+}
+
+@font-face {
+    font-family: Kodchasan;
+    src: url('https://fonts.googleapis.com/css2?family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+}
+
+.Instrumental-sans {
+    font-family: "Instrument Sans", sans-serif;
+}
+
+.Kodchasan {
+    font-family: "Kodchasan", sans-serif;
+}
